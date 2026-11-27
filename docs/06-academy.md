@@ -20,3 +20,6 @@ Programa propuesto, no registro de cursos ya impartidos. Capacitación según ro
 Registro de impartición: course_id, versión, fecha, instructor autorizado, participantes (solo en sistema privado), duración real, asistencia, evaluación previa/posterior, ejercicio y evidencia, estado (programado/impartido/validado), seguimiento a 30 días. No marcar impartido sin evidencia. Las competencias requieren demostración práctica, no asistencia solamente.
 
 A: sesiones de arranque seleccionadas por rol; 13 h de catálogo A no implican 13 h para cada usuario. B: laboratorios con casos anonimizados. C: mentores y actualización trimestral. El presupuesto debe cubrir tanto preparación/instructor como horas de asistentes; recortar participantes o alcance si la capacidad no alcanza. El material aprobado puede alimentar AutoRAG.
+
+## Ruta específica de la célula Python e IA
+Ver [Claude Academy Enablement](13-claude-academy-enablement.md) para cursos oficiales verificados, duración, laboratorios propios y evidencias. No contabilizar dos veces cursos equivalentes ni marcar formación impartida sin registro.
