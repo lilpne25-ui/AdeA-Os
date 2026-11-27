@@ -40,3 +40,6 @@ flowchart TD
 Stack candidato: React/TypeScript, React Flow y bpmn.io; backend Java/Spring Boot en versión aprobada, servicios Python/FastAPI si autorizados; PostgreSQL + pgvector, almacenamiento corporativo, LangGraph, Docling, Matrix, OIDC/SSO, OpenTelemetry. Grafo y minería solo tras validar necesidad. Monolito modular primero; no imponer microservicios ni nuevas bases de datos sin justificación.
 
 Pantallas: inicio, clientes, inventario, mapas de procesos, fichas de competencias, agentes, fuentes/revisiones RAG, documentos, cursos, integraciones, modernización y ROI. Cada pantalla incluye permisos por rol, estado vacío, errores, trazabilidad y exportación controlada. Diseño responsive y accesible. Los datos de cualquier demo son sintéticos.
+
+## Diseño de experiencia y frontend
+Consultar [Frontend Design Engineering](15-frontend-design-engineering.md) y [laboratorio visual](../prototypes/frontend-lab/README.md). Priorizar SGCI y Document Factory, comparar tres direcciones visuales, validar accesibilidad y flujos antes de adoptar. La Skill adea-frontend-design y el agente frontend-reviewer son configuraciones iniciales; las Skills externas requieren autorización y evaluación.
