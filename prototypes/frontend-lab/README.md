@@ -1,0 +1,2 @@
+# Frontend Lab
+Abrir index.html localmente en Chrome, Edge o Firefox. Sin dependencias, sin red ni backend. Selecciona dirección visual, módulo, búsqueda, estado y detalle. Tres temas del mismo flujo permiten comparar legibilidad, densidad y estética. Solo datos sintéticos. Prototipo ilustrativo diseñado para esta propuesta, no resultado de correr Apple Design u otra Skill. No está desplegado ni conectado a sistemas. Pendiente de pruebas en navegador y auditoría de accesibilidad antes de adoptar. 
