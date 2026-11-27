@@ -1,4 +1,4 @@
-# AdeA Intelligence OS — v0.3.2
+# AdeA Intelligence OS — v0.3.3
 
 > Propuesta conceptual independiente de transformación tecnológica. No es una plataforma implantada, una iniciativa oficialmente aprobada ni un presupuesto autorizado. Todos los escenarios son hipotéticos. Este repositorio público contiene únicamente diseños generales y ejemplos sintéticos.
 
@@ -23,6 +23,9 @@ Los USD 50 mensuales son un supuesto pendiente de confirmar; la inversión en li
 
 ## Célula de ingeniería y capacitación
 Propuesta piloto de 90 días con líder técnico, 1–2 ingenieros reasignados, capacidad protegida y aprobación gerencial de tickets. Consultar [equipo](docs/12-ai-engineering-cell.md), [Claude Academy](docs/13-claude-academy-enablement.md) y [contexto para agentes](AGENTS.md). Skills y subagentes de Claude Code incluidos en .claude/; son instrucciones iniciales sin pruebas de ejecución en Claude Code.
+
+## Frontend Design Engineering
+[Guía visual y Skills](docs/15-frontend-design-engineering.md) · [Prompt maestro](prompts/FRONTEND-DESIGN-MASTER.md) · [Frontend Lab](prototypes/frontend-lab/README.md). Tres estilos comparables con siete módulos sintéticos; abrir index.html localmente. No es una aplicación productiva ni resultado de ejecutar las Skills externas.
 
 ## Documentación
 - [Claude Academy: insignias y certificación profesional](docs/14-claude-certification-path.md)
@@ -53,4 +56,4 @@ python3 tools/roi.py --realization-factor 0.5
 python3 -m unittest discover -s tools -p 'test_*.py'
 ```
 
-Estado: especificación v0.3.2, sin conexión a sistemas reales. No contiene código o documentación interna, datos de clientes, credenciales, información individual ni materiales de terceros con licencia restrictiva. Todo uso corporativo requiere autorización y revisión de seguridad, licencias y arquitectura. No se concede licencia sobre marcas o materiales de terceros.
+Estado: especificación v0.3.3, sin conexión a sistemas reales. No contiene código o documentación interna, datos de clientes, credenciales, información individual ni materiales de terceros con licencia restrictiva. Todo uso corporativo requiere autorización y revisión de seguridad, licencias y arquitectura. No se concede licencia sobre marcas o materiales de terceros.
