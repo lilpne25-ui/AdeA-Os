@@ -12,6 +12,9 @@ flowchart TD
   ORQ --> REA[Herramientas de análisis legacy]
   ORQ --> DOC[Document Factory]
   ORQ --> PROC[Process Intelligence]
+  SGI[SGI UNC autorizado] --> SCAN[Worker interno solo lectura]
+  SCAN --> CAT[Catálogo privado y revisión SGI]
+  CAT --> RAG
   RAG --> STORE[SQL, vectores y documentos]
   PROC --> EVENTS[Eventos autorizados]
   STORE --> GRAPH[Grafo opcional en C]
@@ -20,6 +23,7 @@ flowchart TD
 | Módulo | Funcionalidades |
 |---|---|
 | Control Center | Panel de KPIs, búsqueda, filtros, auditoría, permisos |
+| SGI Business Discovery | Raíces autorizadas, escaneos, inventario, matriz documento-proceso y revisión de fuentes |
 | Client Intelligence | Inventario tecnológico, solicitudes, responsables funcionales y riesgos |
 | People Intelligence | Roles, competencias declaradas y verificadas, procedimientos, revisiones |
 | Process Intelligence | BPMN, eventos, tiempos, variantes y automatización |
