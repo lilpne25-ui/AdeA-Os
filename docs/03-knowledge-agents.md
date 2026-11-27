@@ -1,6 +1,9 @@
 # People Intelligence, AutoRAG y agentes especializados
 Capturar conocimiento profesional, no replicar identidad ni evaluar personas mediante vigilancia. Ejemplo: una especialista de análisis tecnológico aporta plantillas, decisiones, procedimientos, casos anonimizados y entrevistas consentidas. Su agente propone diagnósticos, matrices, preguntas y documentación; la especialista valida y conserva autoridad.
 
+## Fuente inicial: SGI UNC
+El [escaneo inicial de negocio](00-sgi-business-discovery.md) genera un catálogo privado de documentos y relaciones con procesos. Solo fuentes y versiones explícitamente aprobadas pasan a AutoRAG en el Plan B; conservar permisos efectivos y trazabilidad a doc_id, versión y ubicación autorizada. El inventario de metadatos no constituye autorización de indexación.
+
 ## Ciclo AutoRAG
 1. Registrar fuente, finalidad, permiso, responsable y versión.
 2. Extraer con Docling, clasificar y detectar datos sensibles/duplicados.
