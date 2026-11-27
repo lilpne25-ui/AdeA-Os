@@ -7,3 +7,5 @@ Proyecto conceptual público. Leer README y documentos pertinentes antes de trab
 - Para planificación de capacidad consultar docs/12-ai-engineering-cell.md; para capacitación docs/13-claude-academy-enablement.md.
 - Skills son procedimientos reutilizables; agentes son contextos especializados. Usar una Skill antes de delegar; solo delegar tareas independientes cuando aporte valor y no abrir múltiples agentes por defecto (presupuesto limitado).
 - Reportar archivos cambiados, pruebas realmente ejecutadas, limitaciones y siguiente decisión. No afirmar éxito no observado. No hacer commits/push/despliegues sin autorización para esa tarea.
+
+- Para frontend, leer docs/15-frontend-design-engineering.md y usar .claude/skills/adea-frontend-design/SKILL.md. Preservar reglas, accesibilidad y estados; evaluar recursos externos antes de instalar, no afirmar que se ejecutaron si no se comprobaron. Usar únicamente datos sintéticos en prototipos públicos.
