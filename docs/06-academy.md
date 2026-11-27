@@ -23,3 +23,6 @@ A: sesiones de arranque seleccionadas por rol; 13 h de catálogo A no implican 1
 
 ## Ruta específica de la célula Python e IA
 Ver [Claude Academy Enablement](13-claude-academy-enablement.md) para cursos oficiales verificados, duración, laboratorios propios y evidencias. No contabilizar dos veces cursos equivalentes ni marcar formación impartida sin registro.
+
+## Registro de credenciales externas
+Ver [ruta de certificación Claude](14-claude-certification-path.md). Registrar por separado insignias verificables, certificaciones profesionales y constancias internas; conservar evidencia de verificación en el entorno privado. Formación pública gratuita como primera etapa, exámenes de pago y partnership solo previa aprobación.
