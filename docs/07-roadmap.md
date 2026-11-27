@@ -32,3 +32,6 @@ Alcance: 5–8 agentes, hasta diez procesos y uno o dos módulos legacy acotados
 
 ## Puertas de decisión
 A: línea base + piloto comparable, objetivo preliminar ≥20% menor tiempo en tareas seleccionadas, calidad no inferior, seguridad aprobada, coste registrado y canal cliente autorizado. B: recuperación con citas y permisos comprobados, agentes evaluados, documentación aprobada y paridad de módulo si se ejecuta. C: ROI recalculado con adopción y realización, soporte operativo y responsable por módulo. Detener, reducir o rediseñar si no se cumplen. Recalcular inversiones incrementales: reutilización completa no garantizada.
+
+## Actualización v0.3 — capacidad real y alcance SGCI
+La Fase 0 de 48 h es un piloto, no un compromiso de escaneo completo. El [plan integral](00a-sgci-full-discovery-plan.md) cubre todo el universo autorizado por lotes, con benchmark y reestimación; con dedicación de 5–10 h/semana, 100–180 h humanas representan 10–36 semanas. Repriorizar Element/PWA si la capacidad es insuficiente. [Opciones de inversión IA](11-ai-investment-options.md): USD 50/mes actual supuesto, 20 Team Standard, y 20 mixtos con techo operativo. Reconciliar estas partidas con costes operativos A/B/C antes de aprobar, no duplicarlas.
