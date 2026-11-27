@@ -29,3 +29,6 @@ Semana 1: Claude Code 101, Fluency parcial, CLI y Git; ejercicio sintético. Sem
 - https://code.claude.com/docs/en/memory
 - https://www.anthropic.com/research/building-effective-agents
 - https://www.anthropic.com/research/claude-code-best-practices
+
+## Credenciales y certificación profesional
+Consultar [ruta de credenciales](14-claude-certification-path.md): diez cursos con insignia (23.75 h), seguimiento y evaluación de Claude Certified Architect / Partner Network. No confundir insignias con certificaciones profesionales ni contar dos veces las horas de formación.
