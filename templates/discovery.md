@@ -11,3 +11,6 @@ ID; tipo; plantilla; fuentes; versión; borrador/aprobado; responsable; revisor;
 ID; curso/versión; fecha; duración real; instructor; asistencia en sistema privado; evaluación; ejercicio; evidencia; estado; seguimiento.
 ## Medición ROI
 Periodo; tarea; volumen; complejidad; tiempo inicial/final; errores; coste de IA; horas liberadas; valor realizado; evidencia; aprobación.
+
+## SGI UNC — inventario y matriz documental
+source_id; raíz UNC (solo privada); run_id; doc_id; ruta relativa; extensión; tamaño; mtime; hash opcional; código; revisión; vigencia; tipo documental; macroproceso; proceso; subproceso; rol responsable; sistema; sensibilidad; estado de acceso; evidencia; confianza; estado de validación; aprobación para RAG.
