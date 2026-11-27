@@ -14,8 +14,11 @@ Estimaciones MXN, con horas internas valorizadas a 300 MXN/h como promedio ilust
 
 El esfuerzo incluye ingeniería, transferencia, formación, seguridad y QA. Reservar capacidad: A ~30 h/semana agregadas; B ~35 h/semana; C ~49–50 h/semana en 7 meses (equipo, no una sola persona). Si faltan horas de especialistas o asistentes, ajustar alcance o presupuesto. Operación cubre licencias/consumo, alojamiento y mantenimiento según cotización real; acceso interactivo a Claude/Codex no presupone API incluida.
 
+## Fase 0 — SGI Business Discovery (semanas 1–2 del Plan A)
+Escaneo de metadatos sobre raíces UNC autorizadas y mapeo documental a macroprocesos, procesos, roles y sistemas. 48 horas agregadas (14,400 MXN valorizados), incluidas en el presupuesto A, no adicionales. Alcance limitado y validación SGI; ver [especificación](00-sgi-business-discovery.md). No activar AutoRAG hasta aprobación de fuentes. Los plazos B/C incluyen esta fase.
+
 ## A — Development & Connect (8 semanas)
-1–2: diagnóstico, línea base, gobierno, herramientas y acceso. 3–4: cursos seleccionados, SDD y pruebas. 5: inventario/análisis legacy. 6: bot Element en laboratorio. 7: dos plantillas documentales. 8: demo, medición y decisión.
+1–2: Fase 0 SGI, diagnóstico, línea base, gobierno y accesos; reservar 48 h para SGI y 12 h para el resto en estas semanas. Ajustar alcance si faltan recursos. 3–4: cursos seleccionados, SDD y pruebas. 5: inventario/análisis legacy. 6: bot Element en laboratorio. 7: dos plantillas documentales. 8: demo, medición y decisión.
 Distribución: ingeniería 42k, Element 12k, formación 9k, QA/seguridad 9k, configuración/contingencia 8k. Alcance: una aplicación, una integración, 5–10 usuarios, panel básico. No construir RAG completo.
 
 ## B — Knowledge & Automation (4 meses acumulados)
