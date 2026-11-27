@@ -1,5 +1,7 @@
 # Fase 0 — Business Discovery / SGI UNC Scanner
 
+**Actualización v0.3:** este documento describe el piloto técnico. El alcance final es TODO el SGCI autorizado, mediante lotes y reconciliación. Consultar [plan integral](00a-sgci-full-discovery-plan.md) y [prompt maestro](../prompts/SGCI-MASTER-PROMPT.md).
+
 Propuesta de levantamiento documental inicial del Sistema de Gestión Integrado (SGI). El objetivo es descubrir cómo funciona el negocio a partir de la documentación existente, sin comenzar creando documentación duplicada ni indexar toda la red. Este documento no contiene rutas, nombres de archivos, clientes o datos reales.
 
 ## 1. Alcance y autorización
@@ -64,7 +66,7 @@ PowerShell Get-ChildItem -LiteralPath (worker Windows, sin seguir enlaces), .NET
 | Informe y línea base | 4 | Cobertura, tiempos y decisión |
 | Total | 48 | Valor ilustrativo 14,400 MXN a 300/h |
 
-Incluido en las 240 h y 80,000 MXN del Plan A, no coste adicional automático. Reasignar tiempo de diagnóstico/ingeniería y acotar inicialmente a 1–2 raíces aprobadas, hasta 500 archivos de metadatos y una muestra de hasta 30 documentos para análisis si autorizado. Si el volumen, los permisos o la validación exceden el presupuesto, reducir alcance o solicitar revisión. No prometer un catálogo completo de la empresa.
+Incluido en las 240 h y 80,000 MXN del Plan A, no coste adicional automático. Reasignar tiempo de diagnóstico/ingeniería y acotar inicialmente a 1–2 raíces aprobadas, hasta 500 archivos de metadatos y una muestra de hasta 30 documentos para análisis si autorizado. Si el volumen, los permisos o la validación exceden el presupuesto, reducir alcance o solicitar revisión. No prometer un catálogo completo dentro de dos semanas: la cobertura total autorizada continúa por oleadas después del piloto.
 
 KPIs: raíces aprobadas vs cubiertas, archivos vistos y accesibles, proporción de muestra clasificada y validada, documentos con código/revisión confirmados, enlaces proceso-documento aprobados, errores y exclusiones, horas invertidas, tiempo para localizar documentos antes/después. Gate A0: alcance firmado, evidencia trazable, inventario privado, revisión de responsables y ninguna modificación a los originales. Gate B: ingesta explícitamente aprobada y pruebas de permisos antes de activar RAG. No indexar la totalidad del SGI por defecto.
 
