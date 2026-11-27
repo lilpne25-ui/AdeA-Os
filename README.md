@@ -1,10 +1,12 @@
-# AdeA Intelligence OS — v0.2
+# AdeA Intelligence OS — v0.2.1
 
 > Propuesta conceptual independiente de transformación tecnológica. No es una plataforma implantada, una iniciativa oficialmente aprobada ni un presupuesto autorizado. Todos los escenarios son hipotéticos. Este repositorio público contiene únicamente diseños generales y ejemplos sintéticos.
 
 **Discover · Connect · Learn · Automate · Modernize**
 
 Objetivo: mejorar desarrollo de software, comunicación con clientes, transferencia de conocimiento y documentación; modernizar aplicaciones legacy de forma gradual y medible.
+
+La primera etapa de todos los planes es el escaneo documental de negocio del SGI sobre rutas UNC expresamente autorizadas, con inventario privado y mapeo a procesos.
 
 ## Planes de inversión (MXN)
 
@@ -17,6 +19,7 @@ Objetivo: mejorar desarrollo de software, comunicación con clientes, transferen
 Los presupuestos incluyen valoración del trabajo interno. No son cotizaciones. Se propone autorizar A primero, B solo tras evaluar A y C solo tras evaluar B. Importes incrementales teóricos: 80,000 + 120,000 + 300,000; recalcular según reutilización real.
 
 ## Documentación
+- [Fase 0 — Business Discovery / SGI UNC Scanner](docs/00-sgi-business-discovery.md)
 - [Arquitectura y centro de control](docs/01-architecture.md)
 - [Análisis tecnológico y comunicación](docs/02-client-element.md)
 - [Personas, procesos, AutoRAG y agentes](docs/03-knowledge-agents.md)
@@ -37,4 +40,4 @@ python3 tools/roi.py --realization-factor 0.5
 python3 -m unittest discover -s tools -p 'test_*.py'
 ```
 
-Estado: especificación v0.2, sin conexión a sistemas reales. No contiene código o documentación interna, datos de clientes, credenciales, información individual ni materiales de terceros con licencia restrictiva. Todo uso corporativo requiere autorización y revisión de seguridad, licencias y arquitectura. No se concede licencia sobre marcas o materiales de terceros.
+Estado: especificación v0.2.1, sin conexión a sistemas reales. No contiene código o documentación interna, datos de clientes, credenciales, información individual ni materiales de terceros con licencia restrictiva. Todo uso corporativo requiere autorización y revisión de seguridad, licencias y arquitectura. No se concede licencia sobre marcas o materiales de terceros.
