@@ -6,7 +6,8 @@ Controles: SSO, permisos mínimos por usuario/cliente, aislamiento, auditoría, 
 ## Backlog priorizado
 | ID | Historia/entregable | Aceptación |
 |---|---|---|
-| A00 | SGI UNC Business Discovery | Raíces autorizadas, inventario privado, cobertura y errores, mapa validado, sin cambios a originales |
+| A00 | SGCI UNC Business Discovery (piloto) | Raíces autorizadas, inventario privado, cobertura y errores, mapa validado, sin cambios a originales |
+| A00b | Cobertura integral SGCI | Universo autorizado reconciliado, lotes reanudables, estados de exclusión, reglas con evidencia y revisión de capacidad |
 | A01 | Inventario y línea base | Fuentes autorizadas, muestra comparable y responsable |
 | A02 | Guía IA y capacitación | Política revisada, sesiones y práctica documentadas |
 | A03 | Bot Element sandbox | Folio, reintentos, deduplicación, sin datos sensibles |
